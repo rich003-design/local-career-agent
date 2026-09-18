@@ -1,0 +1,20 @@
+# Local environment
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+.coverage
+
+# macOS
+.DS_Store
+
+# Local agent data
+data/notes.json
